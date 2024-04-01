@@ -6,6 +6,8 @@ Aplicación de consola en Java para registrar una lista de empleados de forma f�
 * Los datos son guardados en un archivo txt para volverlos de fácil acceso
 * Se detecta si es la primera ejecución de la aplicación por medio de la búsqueda del archivo txt generado
 
+  ![MiNegocio en funcionamiento](https://i.postimg.cc/wMRGFRqB/Captura.png "MiNegocio en funcionamiento")
+
 ## REQUISITOS
 Para usar MisEmpleados, es necesario tener instalados en el equipo:
 1. JDK
