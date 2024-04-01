@@ -9,7 +9,7 @@ Aplicaci√≥n de consola en Java para registrar una lista de empleados de forma f√
   ![MiNegocio en funcionamiento](https://i.postimg.cc/wMRGFRqB/Captura.png "MiNegocio en funcionamiento")
 
 ## REQUISITOS
-Para usar MisEmpleados, es necesario tener instalados en el equipo:
+Para usar MiNegocio, es necesario tener instalados en el equipo:
 1. JDK
 2. IDE de preferencia
 
