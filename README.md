@@ -1,4 +1,4 @@
-# MisEmpleados
+# MiNegocio
 Aplicación de consola en Java para registrar una lista de empleados de forma fácil y rápida en un archivo txt! :memo: :dash: 
 
 ### Detalles técnicos
@@ -38,6 +38,17 @@ Esto puede realizarse de dos maneras:
 ### Ejecutar la aplicación
 Para finalmente correr la aplicación, se debe hallar el archivo Main y hacer clic en el ícono de Run o en el menú correspondiente a este.
 
+Al correr la aplicación por primera vez, debería aparecer en su consola el siguiente mensaje:
+ ```
+************************************************************
+¡BIENVENIDO A MINEGOCIO!
+Esta aplicación de consola le permitirá generar y administrar una lista de los empleados que trabajan en su negocio, almacenada en un archivo TXT.
+************************************************************
+Usted no ha registrado un negocio aún. Por favor, responda las siguientes preguntas. Cuando desee enviar su respuesta, presione Enter.
+¿Cuál es el nombre de su negocio?
+ ```
+
+Por favor, responda las preguntas dentro de la consola, y continúe con las instrucciones.
 
 
 
